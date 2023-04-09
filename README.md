@@ -8,4 +8,8 @@ Chintamani Masthanaiah- 191CS115
 Korada Srinivas Kalyan-191CS130
 
 
-GitHub link - 
+GitHub link - https://github.com/videep1/CS466_assignment_two_side-matching
+
+
+
+paper link - https://ieeexplore.ieee.org/document/8855906
